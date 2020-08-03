@@ -4,7 +4,7 @@
 
 ## Find me around the web 🌎:
 - <a href="https://andrewmichaeljensen.com">Personal Website</a>
-- <a href="https://www.linkedin.com/in/amjensen/">LinkedIn</>
+- <a href="https://www.linkedin.com/in/amjensen/">LinkedIn</a>
 - <a href="https://twitter.com/AndrewMJensen">Twitter</a>
 - <a href="https://www.facebook.com/andrewmjensen">Facebook</a>
 
