@@ -1,6 +1,6 @@
 ### Hi, I'm Andrew! 👋
 
-<img src="images/ajensen-high-five.png" alt="High Five!">
+<img src="https://raw.githubusercontent.com/ajensen/ajensen/master/images/ajensen-high-five.png" alt="High Five!">
 
 ## Find me around the web 🌎:
 - <a href="https://andrewmichaeljensen.com">Personal Website</a>
