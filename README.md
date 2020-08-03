@@ -1,6 +1,6 @@
 ### Hi there, I'm Andrew! 👋
 
-<img src="https://sdk.bitmoji.com/render/panel/3fb3b537-745f-4667-a6c3-e0c397eb19ad-b0e650f9-c67d-41fe-b234-f6563eca8b6e-v1.png?transparent=1&palette=1" alt="High Five!">
+<img src="images/ajensen-high-five.png" alt="High Five!">
 
 ## Find me around the web 🌎:
 - <a href="https://andrewmichaeljensen.com">Personal Website</a>
