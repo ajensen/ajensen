@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Andrew! 👋
+
+<img src="https://sdk.bitmoji.com/render/panel/3fb3b537-745f-4667-a6c3-e0c397eb19ad-b0e650f9-c67d-41fe-b234-f6563eca8b6e-v1.png?transparent=1&palette=1" alt="High Five!">
+
+## Find me around the web 🌎:
+- <a href="https://andrewmichaeljensen.com">Personal Website</a>
+- <a href="https://www.linkedin.com/in/amjensen/">LinkedIn</>
+- <a href="https://twitter.com/AndrewMJensen">Twitter</a>
+- <a href="https://www.facebook.com/andrewmjensen">Facebook</a>
 
 <!--
 **ajensen/ajensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
