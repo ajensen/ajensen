@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Andrew! 👋
+
+<img src="images/ajensen-high-five.png" alt="High Five!">
+
+## Find me around the web 🌎:
+- <a href="https://andrewmichaeljensen.com">Personal Website</a>
+- <a href="https://www.linkedin.com/in/amjensen/">LinkedIn</a>
+- <a href="https://twitter.com/AndrewMJensen">Twitter</a>
+- <a href="https://www.facebook.com/andrewmjensen">Facebook</a>
 
 <!--
 **ajensen/ajensen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
